@@ -1,0 +1,9 @@
+ajax = asynchronous javascript and xml
+json = javascript object notation - 오브젝트를 자바스크립트로 작성하는 기법
+
+fetch -> did mount 에서
+
+ajax는 url을 자바스크립트로 비동기화방법으로 불러옴
+ajax - > ajaj(json)
+자바스크립트와 같이 뒤에서 데이터를 다룰 수 있어서 좋다
+새로고침 없이 작업이 가능하고 리액트와 작업이 간편하기 때문에 ajax 추천

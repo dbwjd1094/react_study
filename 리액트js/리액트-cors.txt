@@ -1,0 +1,2 @@
+CORS : Cross-Origin Resource Sharing
+한 도메인에서 로드된 어떤 클라이언트가 다른 도메인에 있는 리소스와 상호 작용하는 방법을 정의하는 것이다. 

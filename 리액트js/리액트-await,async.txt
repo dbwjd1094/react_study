@@ -1,0 +1,5 @@
+Await, Async는 지난 시간에 작성한 라인들을 좀 더 분명하게 작성해주는 도구 (지난 시간 : fetch, then, catch)
+
+call back hell : then이 점점 더 많아져서 길을 잃어버리는 것
+
+async를 안쓰면 await는 작동을 안함

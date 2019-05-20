@@ -1,0 +1,11 @@
+모든 컴포넌트가 state가 있는 것은 아니다
+없는 것은 stateless functional 컴포넌트
+이 두개의 큰 차이는 state 가 있고 없고의 차이이다.
+있는 것은 smart component 없는 것은 dumb component
+state가 없고 props밖에 없을 때는 클래스 컴포넌트를 쓰는 대신에 이들을 
+stateless functional 컴포넌트로 바꾸면 된다. 
+
+어떤 컴포넌트는 리턴하기 위해 존재한다. 이는 component will mount, function, update stae, 등등이 필요없다. 그냥 한개의 props만 있으면 된다. 
+이들은 state, function redner, 라이프 사이클이 없다.  오직 return 만 가지고 있다. 단지 html을 리턴해야함
+
+클래스들은 그 안에 this라는 키워드가 있지만 stateless functional 컴포넌트에는 없음 이미 props를 사용하니까
